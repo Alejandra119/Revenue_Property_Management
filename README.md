@@ -40,14 +40,19 @@ Los datos provistos incluyen:
 
 📘 Resumen Ejecutivo: Hallazgos clave.
 
-🔍 Metodología Detallada: Paso a paso del análisis.
+🔍 **[Metodología Detallada](Desarrollo.ipynb)**
 
-📈 Visualizaciones y Dashboards.
+📈 **[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2M4NDI5YzAtMDEwYi00YTY4LWI5MjEtMjQyZGY0NzdjZWYzIiwidCI6IjdhNTk5MDAyLTAwMWMtNDMyYy04NDZlLTFkZGNhOWY2YjI5OSIsImMiOjR9)**
 
 💡 Recomendaciones Estratégicas basadas en datos.
 
 📌 Notas Finales
 Este ejercicio se enfocó en el razonamiento, la claridad en el proceso, y la capacidad de tomar decisiones informadas. Algunas suposiciones fueron documentadas cuando los datos requerían contexto adicional.
+
+
+
+Espero les haya gustado el desarrollo de este proyecto, cualquier consulta pueden escribirme a **[LinkedIn](https://www.linkedin.com/in/alejandra-lizeth-salas-talavera/)**
+
 
 “El análisis no solo trata de números; se trata de descubrir historias ocultas que impulsan el éxito. ¡Deja que tus datos hablen!”
 
